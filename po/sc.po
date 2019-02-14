@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-21 11:02-0300\n"
-"PO-Revision-Date: 2019-01-14 03:20+0000\n"
+"PO-Revision-Date: 2019-03-07 21:54+0000\n"
 "Last-Translator: Adrià <adriamartinmor@gmail.com>\n"
 "Language-Team: Sardinian <https://translate.ubports.com/projects/ubports/"
 "messaging-app/sc/>\n"
@@ -210,7 +210,7 @@ msgstr "Su tipu de archìviu no est cumpatìbile"
 
 #: ../src/qml/MessagesListView.qml:143
 msgid "Forward"
-msgstr "Torra a imbiare"
+msgstr "In antis"
 
 #: ../src/qml/MessageInfoDialog.qml:97
 msgid "From"
