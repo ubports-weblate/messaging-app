@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: messaging-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-21 11:02-0300\n"
-"PO-Revision-Date: 2018-12-30 00:00+0000\n"
+"PO-Revision-Date: 2019-03-07 21:54+0000\n"
 "Last-Translator: Ivo Xavier <ivofernandes12@gmail.com>\n"
 "Language-Team: Portuguese <https://translate.ubports.com/projects/ubports/"
 "messaging-app/pt/>\n"
@@ -212,7 +212,7 @@ msgstr "Tipo de ficheiro não suportado"
 
 #: ../src/qml/MessagesListView.qml:143
 msgid "Forward"
-msgstr "Reencaminhar"
+msgstr "Avançar"
 
 #: ../src/qml/MessageInfoDialog.qml:97
 msgid "From"
